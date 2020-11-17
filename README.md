@@ -10,4 +10,4 @@
 >       +  协程加速爬取豆瓣网(gevent)
 >       +  ygdy8网站爬虫(quote+gbk编码-将词条链接化)
 >       +  扇贝单词(模拟单词打卡操作)
->       +  ProxyVerification(代理ip验证可用性)
+>       ~~+  ProxyVerification(代理ip验证可用性)~~
